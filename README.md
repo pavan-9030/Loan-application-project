@@ -66,4 +66,4 @@ end to end, using industry-standard tools.
 
 Then be ready to open `/jira`, `/confluence`, `/postman`, or `/diagrams` live and walk
 through one file — that's what makes it credible.
-give asusal but see spelling mistakes and sentance format i want everything
+
