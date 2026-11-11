@@ -66,5 +66,6 @@ end to end, using industry-standard tools.
 
 Then be ready to open `/jira`, `/confluence`, `/postman`, or `/diagrams` live and walk
 through one file — that's what makes it credible.
-everything is fine between to the project
+everything is fine between to the project......
+everything is done good 
 
